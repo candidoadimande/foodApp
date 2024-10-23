@@ -1,0 +1,12 @@
+.itemContainer {
+  width: 200px;
+  border-radius: 10px;
+  margin: 20px;
+  height: auto;
+  box-shadow: 0 4px 6px rgb(0,0,0,0.2);
+  overflow: hidden;
+}
+.itemImage {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,13 @@
+.foodetailContainer {
+  box-shadow: 0 4px 6px rgb(0,0,0,0.2);
+  border-radius: 5px;
+  max-width: 250px;
+  margin: 20px auto;
+}
+.title {
+  font-size: 1em;
+  font-family: Comic Sans MS;
+}
+.imgContainer{
+  width: 100%;
+}
