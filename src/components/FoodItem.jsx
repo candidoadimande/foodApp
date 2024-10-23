@@ -4,7 +4,7 @@ export default function FoodItem({ food, setfoodId }) {
     <div className={styles.itemContainer}>
       <img className={styles.itemImage} src={food.image}/>
       <p> {food.title} </p>
-      <button onClick={() => setfoodId(food.id)} >View recipe</button>
+      <button onClick={() => setfoodId(food.id)} >View</button>
     </div>
   )
 }
